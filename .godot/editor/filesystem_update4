@@ -1,0 +1,6 @@
+res://node_2d.tscn
+res://gameSaveFile.gd
+res://SaveAndLoad.gd
+res://node_2d.gd
+res://player/player.tscn
+res://room.tres
